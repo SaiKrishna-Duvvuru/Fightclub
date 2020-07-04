@@ -1,0 +1,42 @@
+    /* You can add global styles to this file, and also import other style files */
+    .cart-item{
+        font-size:small;
+    }
+    .filter{
+        font-size: small;
+    }
+    .product-btn{
+    font-size:small;
+    }
+    .card,.form-control, .btn{
+        border-radius: 0rem;
+    }
+    .list-group-item:first-child {
+        border-top-left-radius:0rem;
+        border-top-right-radius:0rem;
+    }
+    .list-group-item:last-child {
+        border-bottom-left-radius:0rem;
+        border-bottom-right-radius:0rem;
+    }
+    .cart-item-size{
+        font-size: xx-large;
+    }
+    .measured{
+        height:95%;
+    }
+    .fa-heart{
+        color: palevioletred;
+        cursor: pointer;
+    }
+    .guest-form-card h2{
+        text-transform: uppercase;
+        font-size: large;
+        
+    }
+    .guest-form-card label{
+        font-size: small;
+    }
+    button[disabled] {
+        cursor: not-allowed;
+      }
